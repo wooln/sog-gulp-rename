@@ -1,0 +1,41 @@
+{
+  "name": "sog-gulp-rename",
+  "version": "0.1.0",
+  "description": "rename file name in gulp task, and generate manifest mapping json file.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url":  "https://github.com/wooln/sog-gulp-rename"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "rename",   
+    "gulp rename",
+    "manifest"
+  ],
+  "author": {
+    "name": "YinjinXu",
+    "email": "xuyunjin@foxmail.com",
+    "url": "https://github.com/wooln"
+  },
+  "dependencies": {
+    "modify-filename": "^1.1.0",
+    "plugin-error": "^0.1.2",
+    "rev-hash": "^2.0.0",
+    "rev-path": "^2.0.0",
+    "sort-keys": "^2.0.0",
+    "through2": "^2.0.0",
+    "vinyl": "^2.1.0",
+    "vinyl-file": "^3.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "p-event": "^1.0.0",
+    "xo": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/wooln/sog-gulp-rename/issues"
+  },
+  "homepage": "https://github.com/wooln/sog-gulp-rename#readme"
+}
