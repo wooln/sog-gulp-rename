@@ -11,6 +11,9 @@ npm i sog-gulp-rename --save-dev
 
 ## Usage
 
+从npmjs安装
+[sog-gulp-rename - npm](https://www.npmjs.com/package/sog-gulp-rename)
+
 ### Example
 
 - 引入：const sogRename = require('sog-gulp-rename');
